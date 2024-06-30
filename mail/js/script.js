@@ -21,3 +21,4 @@ if (allowedEmail === true) {
 else {
     console.log('Accesso negato')
 }
+
