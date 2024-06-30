@@ -12,3 +12,12 @@ for (let i = 0; i < emailList.length; i++) {
     if (email === emailList[i])
         allowedEmail = true;
 }
+
+// mostro il risultato nella console del browser
+if (allowedEmail === true) {
+    console.log('Accesso autorizzato!')
+}
+
+else {
+    console.log('Accesso negato')
+}
