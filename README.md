@@ -23,4 +23,22 @@ Consigli del giorno:
 4. torniamo a scrivere in italiano
 5. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 
-Buon lavoro e buon divertimento! :faccia_leggermente_sorridente: (modificato) 
+Buon lavoro e buon divertimento! :faccia_leggermente_sorridente: (modificato)
+
+////////////////////////////////////////////////////
+MAIL
+- dichiaro un'array e assegno una lista di email
+- richiamo il bottone dal dom
+    - dichiaro una varibabile per l'email con valore aquisito da una prompt
+    - dichiaro una variabile di controllo con valore false
+    - inizio un ciclo for per l'array
+        - confronto il valore dell'array con quello aquisito dalla prompt
+        - ?SE i valori sono uguali 
+        - imposto il valore della variabile di controllo a true
+    - ?SE il valore della variabile di controllo è true
+        - mostro il risultato nella console del browser
+    - :ALTRIMENTI 
+        - mostro il risultato nella console del browser
+    -
+-
+////////////////////////////////////////////////////
