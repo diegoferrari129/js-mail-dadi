@@ -16,5 +16,5 @@ else if (heroDamage < monsterDamage) {
 
 // ALTRIMENTI stampo un'altro messaggio nella console del browser
 else {
-    console.log('Carneficina !');
+    console.log('Carneficina !'); 
 }
