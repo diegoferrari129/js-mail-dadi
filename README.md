@@ -41,4 +41,13 @@ MAIL
         - mostro il risultato nella console del browser
     -
 -
+
 ////////////////////////////////////////////////////
+DICE
+- dichiaro una variabile con valore random da 1 a 6 per l'utente
+- dichiaro un'altra variabile con valore random da 1 a 6 per il pc
+- ?SE il valore assegnato all'utente è maggiore del valore assegnato al pc
+    - stampo un messaggio nella console del browser
+- :ALTRIMENTI ?SE il valore assegnato all'utente è minore del valore assegnato al pc
+    -stampo un'altro messaggio nella console del browser
+- :ALTRIMENTI stampo un'altro messaggio nella console del browser
